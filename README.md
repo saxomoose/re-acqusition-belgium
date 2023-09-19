@@ -8,4 +8,4 @@ Focus on Belgian specificities (tax, notary fees, ...)
 
 # Inspirations
 
-mortgagecalculator.org
+https://www.mortgagecalculator.org/download/excel.php
